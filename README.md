@@ -17,7 +17,7 @@ I enjoy turning ideas into real applications and learn new things every day.
   ![](https://skillicons.dev/icons?i=java,c,cpp,py,html,css,php,js,ts,kotlin,sql)
 
 ### ⚙ Frameworks :  
-  ![](https://skillicons.dev/icons?i=vue,nodejs,angular,symfony,spring)
+  ![](https://skillicons.dev/icons?i=nodejs,angular,symfony,spring)
 
 ### 💾 Databases : 
   ![](https://skillicons.dev/icons?i=postgres,mysql,mongodb,mariadb)
