@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Enes
 
-🎓 Computer Science student
+🎓 Computer Science student \n
 💻 Passionate about software development and new technologies
 🚀 Always learning, building, and improving
 
