@@ -28,5 +28,5 @@ I enjoy turning ideas into real applications and learn new things every day.
   ![](https://skillicons.dev/icons?i=figma,trello,jira)
 
 ## 📫 Contact
-  - 💼 LinkedIn: https://www.linkedin.com/in/enes-alperen-uzun/
-  - 📧 Email: enesdu90800@gmail.com
+  - 💼 [LinkedIn](https://www.linkedin.com/in/enes-alperen-uzun/)
+  - 📧 Email : enesdu90800@gmail.com
