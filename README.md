@@ -13,6 +13,19 @@ I enjoy turning ideas into real applications and learn new things every day.
 
 ## 🛠️ Technologies & Tools
 
+### 🌍 Languages : 
+  ![](https://skillicons.dev/icons?i=java,c,cpp,py,html,css,php,js,ts,kotlin,sql)
+
+### ⚙ Frameworks :  
+  ![](https://skillicons.dev/icons?i=vue,nodejs,angular,symfony,spring)
+
+### 💾 Databases : 
+  ![](https://skillicons.dev/icons?i=postgres,mysql,mongodb,mariadb)
+
+### 🔧 Utils :
+  ![](https://skillicons.dev/icons?i=linux,windows,github,git,docker)
+### 💻 Softwares : 
+  ![](https://skillicons.dev/icons?i=figma,trello,jira)
 
 ## 📫 Contact
   - 💼 LinkedIn: https://www.linkedin.com/in/enes-alperen-uzun/
