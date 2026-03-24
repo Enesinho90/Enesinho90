@@ -9,7 +9,7 @@
 I'm currently studying computer science and working on various projects to improve my skills in both frontend and backend development.
 I enjoy turning ideas into real applications and learn new things every day.
 
-### 💻 Development  🏋️‍♂️ Fitness  ✈️ Traveling  ⚽ Football  🎬 Movies  🎮 Video Games
+<p align="center"> 💻 Development  🏋️‍♂️ Fitness  ✈️ Traveling  ⚽ Football  🎬 Movies  🎮 Video Games <p>
 
 ## 🛠️ Technologies & Tools
 
