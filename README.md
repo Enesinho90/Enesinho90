@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Enes
 
-🎓 Computer Science student <br>
-💻 Passionate about software development and new technologies <br>
-🚀 Always learning, building, and improving <br>
+Computer Science student <br>
+Passionate about software development and new technologies <br>
+Always learning, building, and improving <br>
 
 ## 🧑‍💻 About Me
 
